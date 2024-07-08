@@ -1,0 +1,48 @@
+/* .Wrapper{
+    background-color: greenyellow;
+    width: 300px;
+    height: 300px;
+   list-style: none;
+   border: transparent;
+   border-radius: 10px;
+   text-align: center;
+}
+.Ota{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+} */
+
+.img{
+    width: 200px;
+    height: 200px;  
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    list-style: none;
+}
+.Wrapper{
+    width: 200px;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+.price{
+    color: #ccc;
+    text-align: center;
+}
+.name{
+    font-size: 25px;
+    text-align: center;
+}
+.input{
+    height: 40px;
+    width: 200px;
+    display: flex;
+    margin: 0 auto;
+    border:1px solid #ccc ;
+    border-radius: 10px;
+}
